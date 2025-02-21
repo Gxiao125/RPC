@@ -1,0 +1,2 @@
+mkdir -p generated
+protoc --cpp_out=generated/ proto/rpc_demo.proto

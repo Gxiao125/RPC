@@ -1,0 +1,2 @@
+/usr/bin/ar qc librpc_framework.a CMakeFiles/rpc_framework.dir/src/channel.cpp.o CMakeFiles/rpc_framework.dir/src/rpc_server.cpp.o "CMakeFiles/rpc_framework.dir/\$(PROTO_FILES).pb.cc.o"
+/usr/bin/ranlib librpc_framework.a

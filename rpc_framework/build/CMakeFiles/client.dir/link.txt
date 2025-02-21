@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/client.dir/examples/client_demo.cpp.o -o client  librpc_framework.a /usr/lib/x86_64-linux-gnu/libprotobuf.so -lpthread 
